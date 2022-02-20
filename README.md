@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PradHolla
-- 👀 I’m interested in Python, Data Science, Machine Learning etc
+- 👀 I’m interested in Python, Data Science, Machine Learning etc.
 - 🌱 I’m currently learning API Development, Serverless Technologies.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ML.
 - 📫 How to reach me ...
 
 <!---

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pradhyumna N Holla!
 - 👀 I’m interested in Python, Data Science, Machine Learning etc.
-- 🌱 I’m currently learning API Development, Serverless Technologies.
+- 🌱 I’m currently learning Node, API Development, Serverless Technologies.
 - 💞️ I’m looking to collaborate on ML.
 
 <!---

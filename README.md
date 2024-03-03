@@ -1,4 +1,3 @@
-- Pradhyumna N Holla!
 - Python, Data Science, Machine Learning etc.
 
 <!---
